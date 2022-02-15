@@ -27,7 +27,7 @@ body {
     background-image: url(../images/header/header-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right bottom;
+    background-position: left bottom;
 }
 .menu-burger {
     position: absolute;
@@ -766,6 +766,9 @@ background: url(../images/about/about-bg-topright.png) 0 0 no-repeat;
 @media(max-width: 500px) {
         .title {
             font-size: 40px;
+        }
+        .header-bottom {
+            padding-top: 100px;
         }
         .video-link {
             max-width: 372px;
