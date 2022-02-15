@@ -5,8 +5,8 @@ $(function(){
         centerPadding: '320px',
         slidesToShow: 1,
         slidesToScroll: 1,
-        prevArrow: "<img src='../images/slider/prev-arrow.svg' class='prev' alt='1'>",
-        nextArrow: "<img src='../images/slider/next-arrow.svg' class='next' alt='2'>",
+        prevArrow: "<img src='./images/slider/prev-arrow.svg' class='prev' alt='1'>",
+        nextArrow: "<img src='./images/slider/next-arrow.svg' class='next' alt='2'>",
 
         responsive: [
             {
