@@ -283,6 +283,7 @@ background: url(../images/about/about-bg-topright.png) 0 0 no-repeat;
     background: #EB6224;
     border-radius: 50px;
     color: #fff;
+    cursor: pointer;
 }
 .newnumber {
     background: url(../images/newnumber/newnumber-bg.png) 0 0 repeat-x,
@@ -452,6 +453,7 @@ background: url(../images/about/about-bg-topright.png) 0 0 no-repeat;
     padding: 10px 15px;
     background: #322F82;
     border-radius: 20px;
+    cursor: pointer;
 }
 .footer {
     background: url(../images/footer/footer-bg.png) 0 0 repeat-x;
